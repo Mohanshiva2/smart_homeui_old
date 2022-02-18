@@ -25,6 +25,10 @@ class _SettingState extends State<Setting> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               // Navigator.push(context, MaterialPageRoute(builder: (context)=>ThemeScreen()));
+
+
+
+
               Text(
                 'Settings',
                 style: TextStyle(
