@@ -39,7 +39,7 @@ dependencies:
   flutter_switch:
   flutter_svg:
   floating_bottom_navigation_bar:
-
+  http:
 dev_dependencies:
   flutter_test:
     sdk: flutter

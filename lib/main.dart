@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:smart_homeui_old/Screens/navebar.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
